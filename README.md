@@ -92,4 +92,4 @@ public class UserController {
 Откройте браузер и в адресной строке вверху введите http://localhost:8080/users. Мы должны получить ответ, подобный этому:
 
 <img src="https://i2.paste.pics/IWFWE.png" width="50%" height="50%" alt="Screenshot">
->>>>>>> 8f3c2213b0d319d8f27e9e331de8d2960023065d
+
